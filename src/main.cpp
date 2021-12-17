@@ -1,7 +1,6 @@
 #include "inc.hpp"
 #include "scan.hpp"
 #include "MinHook.h"
-#include <set>
 
 bool g_dumped = false;
 DWORD (*o_get_module_name)(HMODULE mod, LPSTR filename, DWORD size);
