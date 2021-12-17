@@ -1,2 +1,2 @@
-# bush-win
-windows port of bush tools with better code
+# shv-dump
+run this with scripthookv.dll in the same folder, will dump the latest crossmaps.
